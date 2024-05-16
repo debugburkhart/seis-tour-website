@@ -1,0 +1,129 @@
+/* Reset default browser styles */
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Russo One", sans-serif; /* Set Russo One as the font family */
+}
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding-top: 4rem; /* Add padding-top to body to push main content down */
+    line-height: 1.6;
+    background-color: black;
+    color: white; /* Set text color to white for better readability */
+    text-align: center; /* Center align all text */
+}
+
+header {
+    background-color: white !important;
+    color: black !important;
+    padding: .5rem;
+    text-align: center !important;
+    width: 100%;
+    z-index: 1000;
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+}
+
+header img {
+    margin-right: 0.5rem; /* Add some space between the image and the text */
+    vertical-align: middle; /* Align the image vertically in the middle */
+}
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+nav {
+    margin-top: 1rem; /* Add space between header text and nav */
+}
+
+main {
+    padding: 2rem;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem; /* Add margin-top to main to prevent overlap with header */
+}
+
+
+section {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: white !important;
+    color: black !important;
+    text-align: center !important;
+    padding: 1rem !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+}
+
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+table {
+    margin: auto; /* Center the table */
+    text-align: center;
+    width: 80%; /* Set the width of the table */
+}
+
+table td {
+    padding: 5px; /* Adjust the padding between table cells */
+}
+
+table td img {
+    margin-right: 5px; /* Adjust the margin between the image and text */
+}
+
+#stats ul li a {
+    color: white;
+    text-decoration: underline;
+}
+
+.csv-container {
+            margin-bottom: 50px; /* Adjust as needed */
+}
+
+/* Add this to your existing CSS file */
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .navbar {
+    margin-top: 1rem; /* Adjust as needed */
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .nav-links li {
+    margin-bottom: 1rem; /* Adjust as needed */
+  }
+  
