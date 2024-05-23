@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecde20f0.css",
-    "main.js": "/static/js/main.9eccd53d.js",
-    "static/media/Sand Sharks logo.png": "/static/media/Sand Sharks logo.c577a95f262556a69182.png",
-    "static/media/Fairway Fiends Logo.png": "/static/media/Fairway Fiends Logo.089612e549648253f4f8.png",
-    "static/media/Rough Riders Logo.png": "/static/media/Rough Riders Logo.c26be9d85b40671f09a6.png",
-    "static/media/Greenside Goats logo.png": "/static/media/Greenside Goats logo.74026003da21ec48be86.png",
-    "static/media/seiscupplayoffs.png": "/static/media/seiscupplayoffs.2cc1c0aa264465fc7ea3.png",
-    "static/media/draft.png": "/static/media/draft.ab57805ea096e6b3fada.png",
-    "static/media/Wedge Wizards Logo.png": "/static/media/Wedge Wizards Logo.de67433fea366ceddef0.png",
-    "static/media/team.png": "/static/media/team.a8b6e8113a588730326a.png",
-    "static/media/seisscramble.png": "/static/media/seisscramble.7ba825997c7b837a2de9.png",
-    "static/media/captain.png": "/static/media/captain.09ace6ce90bfa1b88efc.png",
-    "static/media/virtual.png": "/static/media/virtual.1dcb3e42419c91fc96d3.png",
-    "static/media/2024SeisTourRules.png": "/static/media/2024SeisTourRules.2c6b33df406213f04986.png",
-    "static/media/major.png": "/static/media/major.3af7025c531b7bda13a3.png",
-    "static/media/SeisTourLogo-removebg-preview.png": "/static/media/SeisTourLogo-removebg-preview.dcf0c041d28804e11088.png",
-    "static/media/scramblepoints.png": "/static/media/scramblepoints.28f4075d04e7615ad346.png",
-    "index.html": "/index.html",
-    "main.ecde20f0.css.map": "/static/css/main.ecde20f0.css.map",
-    "main.9eccd53d.js.map": "/static/js/main.9eccd53d.js.map"
+    "main.css": "/seis-tour-website/static/css/main.ecde20f0.css",
+    "main.js": "/seis-tour-website/static/js/main.e3e77242.js",
+    "static/media/Sand Sharks logo.png": "/seis-tour-website/static/media/Sand Sharks logo.c577a95f262556a69182.png",
+    "static/media/Fairway Fiends Logo.png": "/seis-tour-website/static/media/Fairway Fiends Logo.089612e549648253f4f8.png",
+    "static/media/Rough Riders Logo.png": "/seis-tour-website/static/media/Rough Riders Logo.c26be9d85b40671f09a6.png",
+    "static/media/Greenside Goats logo.png": "/seis-tour-website/static/media/Greenside Goats logo.74026003da21ec48be86.png",
+    "static/media/seiscupplayoffs.png": "/seis-tour-website/static/media/seiscupplayoffs.2cc1c0aa264465fc7ea3.png",
+    "static/media/draft.png": "/seis-tour-website/static/media/draft.ab57805ea096e6b3fada.png",
+    "static/media/Wedge Wizards Logo.png": "/seis-tour-website/static/media/Wedge Wizards Logo.de67433fea366ceddef0.png",
+    "static/media/team.png": "/seis-tour-website/static/media/team.a8b6e8113a588730326a.png",
+    "static/media/seisscramble.png": "/seis-tour-website/static/media/seisscramble.7ba825997c7b837a2de9.png",
+    "static/media/captain.png": "/seis-tour-website/static/media/captain.09ace6ce90bfa1b88efc.png",
+    "static/media/virtual.png": "/seis-tour-website/static/media/virtual.1dcb3e42419c91fc96d3.png",
+    "static/media/2024SeisTourRules.png": "/seis-tour-website/static/media/2024SeisTourRules.2c6b33df406213f04986.png",
+    "static/media/major.png": "/seis-tour-website/static/media/major.3af7025c531b7bda13a3.png",
+    "static/media/SeisTourLogo-removebg-preview.png": "/seis-tour-website/static/media/SeisTourLogo-removebg-preview.dcf0c041d28804e11088.png",
+    "static/media/scramblepoints.png": "/seis-tour-website/static/media/scramblepoints.28f4075d04e7615ad346.png",
+    "index.html": "/seis-tour-website/index.html",
+    "main.ecde20f0.css.map": "/seis-tour-website/static/css/main.ecde20f0.css.map",
+    "main.e3e77242.js.map": "/seis-tour-website/static/js/main.e3e77242.js.map"
   },
   "entrypoints": [
     "static/css/main.ecde20f0.css",
-    "static/js/main.9eccd53d.js"
+    "static/js/main.e3e77242.js"
   ]
 }
