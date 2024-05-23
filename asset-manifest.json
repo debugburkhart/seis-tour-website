@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/seis-tour-website/static/css/main.ecde20f0.css",
-    "main.js": "/seis-tour-website/static/js/main.e3e77242.js",
+    "main.css": "/seis-tour-website/static/css/main.ef672681.css",
+    "main.js": "/seis-tour-website/static/js/main.346b9f34.js",
+    "static/js/453.3d7842c3.chunk.js": "/seis-tour-website/static/js/453.3d7842c3.chunk.js",
     "static/media/Sand Sharks logo.png": "/seis-tour-website/static/media/Sand Sharks logo.c577a95f262556a69182.png",
     "static/media/Fairway Fiends Logo.png": "/seis-tour-website/static/media/Fairway Fiends Logo.089612e549648253f4f8.png",
     "static/media/Rough Riders Logo.png": "/seis-tour-website/static/media/Rough Riders Logo.c26be9d85b40671f09a6.png",
@@ -18,11 +19,12 @@
     "static/media/SeisTourLogo-removebg-preview.png": "/seis-tour-website/static/media/SeisTourLogo-removebg-preview.dcf0c041d28804e11088.png",
     "static/media/scramblepoints.png": "/seis-tour-website/static/media/scramblepoints.28f4075d04e7615ad346.png",
     "index.html": "/seis-tour-website/index.html",
-    "main.ecde20f0.css.map": "/seis-tour-website/static/css/main.ecde20f0.css.map",
-    "main.e3e77242.js.map": "/seis-tour-website/static/js/main.e3e77242.js.map"
+    "main.ef672681.css.map": "/seis-tour-website/static/css/main.ef672681.css.map",
+    "main.346b9f34.js.map": "/seis-tour-website/static/js/main.346b9f34.js.map",
+    "453.3d7842c3.chunk.js.map": "/seis-tour-website/static/js/453.3d7842c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecde20f0.css",
-    "static/js/main.e3e77242.js"
+    "static/css/main.ef672681.css",
+    "static/js/main.346b9f34.js"
   ]
 }
